@@ -3,7 +3,7 @@
 These evaluation scenarios were developed by a physician with:
 
 - **3+ years active clinical practice** across internal medicine, emergency scenarios, and outpatient care
-- **Clinical postings** in neuroanatomy, neurophysiology, neuropathology, neuropsychiatry, and neurosurgery
+- **Clinical postings** in neuroanatomy, neurophysiology, neuropathology, neurology, neurosurgery and psychiatry
 - **1+ year integrating LLMs** (ChatGPT, Claude) into clinical workflows for complex case analysis
 - **3+ years building safety-critical AI systems** (Bayesian inference architectures for autonomous vehicle safety)
 

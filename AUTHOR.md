@@ -24,4 +24,4 @@ The result: evaluation prompts that test what actually matters in clinical reaso
 For questions, collaboration, or to discuss medical AI evaluation:
 
 - LinkedIn: [linkedin.com/in/ajibola-folaranmi-365a77153](https://www.linkedin.com/in/ajibola-folaranmi-365a77153/)
-- GitHub: [github.com/Jixx23](https://github.com/Jixx23)
+- GitHub: https://github.com/Jixx23/medical-llm-evaluation-prompts/blob/main/AUTHOR.md
